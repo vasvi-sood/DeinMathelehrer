@@ -8,3 +8,5 @@
 
 
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/the_only_one_bruno)
+
+<iframe src='https://ko-fi.com/hisokasimp/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:16px;background:#f7f7f7;' height='640' title='hisokasimp'></iframe>
